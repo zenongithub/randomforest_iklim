@@ -1,0 +1,2 @@
+matrix,temp,humidity,cloudcover,sealevelpressure,windspeed,precip
+mse,0.386,11.218,103.077,0.492,43.272,185.571
